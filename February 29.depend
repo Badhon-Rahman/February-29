@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1577719139 source:c:\badhon\coun leap year\main.cpp
+	<iostream>
+	<sstream>
+
+1577721386 source:c:\badhon\february 29\main.cpp
+	<iostream>
+	<sstream>
+

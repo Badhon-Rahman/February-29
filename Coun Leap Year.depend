@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577577483 source:c:\badhon\coun leap year\main.cpp
+	<iostream>
+	<sstream>
+
